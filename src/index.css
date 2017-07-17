@@ -3,3 +3,8 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+.netflix-logo {
+  width: 124px;
+  vertical-align: middle;
+}
