@@ -1,7 +1,3 @@
-/*
-  Importamos cada imagen para utilizarla posteriormente
-*/
-
 import origenCover from './images/cover-origen.jpg';
 import avatarCover from './images/cover-avatar.jpg';
 import batmanCover from './images/cover-batman.jpg';
@@ -9,11 +5,6 @@ import bastardosCover from './images/cover-bastardos.jpg';
 import interstellarCover from './images/cover-interstellar.jpg';
 import torinoCover from './images/cover-torino.jpg';
 import simiosCover from './images/cover-simios.jpg';
-
-/*
-  Creamos una array de peliculas para utilizar su información dentro de nuestra
-  aplicación
-*/
 
 const movies = [{
   "id": "4fede17c312f912796000034",
